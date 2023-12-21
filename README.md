@@ -27,7 +27,7 @@ Create a checker script for health check.
 * [Install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/aws-get-started)
 * [Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 * AWS Account - It will provide by email to the requestor
-* [AWS Key Pair](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-keypairs.html) - Need to have the name have in hte terraform vars.tf file called "KeyPair"
+* [AWS Key Pair](https://docs.aws.amazon.com/cli/latest/userguide/cli-services-ec2-keypairs.html) - Need to have the name that have in hte terraform vars.tf file called "KeyPair"
 
 ### **Infrastructure design and execution:**
 
